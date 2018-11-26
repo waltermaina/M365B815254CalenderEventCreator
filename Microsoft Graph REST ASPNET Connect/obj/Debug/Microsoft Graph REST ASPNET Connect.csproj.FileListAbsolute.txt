@@ -158,3 +158,88 @@ C:\aspnet2\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Conne
 C:\aspnet2\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CopyComplete
 C:\aspnet2\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.dll
 C:\aspnet2\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.pdb
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.exe
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.exe.config
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.rsp
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.exe
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.rsp
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.AppContext.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Collections.Immutable.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Console.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Reflection.Metadata.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.exe
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.exe.config
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.rsp
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\VBCSCompiler.exe
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\roslyn\VBCSCompiler.exe.config
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.dll.config
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.pdb
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Antlr3.Runtime.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Graph.Core.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Graph.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Identity.Client.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Newtonsoft.Json.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Owin.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Net.Http.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Algorithms.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Encoding.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Primitives.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.X509Certificates.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Helpers.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Mvc.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Optimization.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Razor.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Deployment.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Razor.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\WebGrease.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Antlr3.Runtime.pdb
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Graph.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Graph.Core.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Identity.Client.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\Newtonsoft.Json.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Helpers.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Mvc.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Optimization.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.Razor.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Deployment.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Razor.xml
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csprojAssemblyReference.cache
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CoreCompileInputs.cache
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CopyComplete
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.dll
+C:\M365B815254CalenderEventCreator\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.pdb
